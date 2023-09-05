@@ -1,8 +1,6 @@
 <h1 align="center">Hi , I'm Srinivas</h1>
 <h3 align="center">ML Enthusiast, Professional Silly Guy</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sr1nvs" alt="sr1nvs" /></a> </p>
-
 - 🌱 I’m currently learning **Flutter, JS**
 
 <h3 align="left">Connect with me:</h3>
