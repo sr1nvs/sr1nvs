@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Srinivas</h1>
-<h3 align="center">ML Enthusiast, Web Dev Novice</h3>
+<h3 align="center">Electronics Major, ML Enthusiast</h3>
 
 - 🌱 I’m currently learning **JS, Generative AI**
 
