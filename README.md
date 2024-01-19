@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Srinivas</h1>
 <h3 align="center">Electronics Major, ML Enthusiast</h3>
 
-- 🌱 I’m currently learning **JS, Generative AI**
+- 🌱 I’m currently learning **Generative AI**
 
 - 💬 Ask me about **tensorflow, torch**
 
