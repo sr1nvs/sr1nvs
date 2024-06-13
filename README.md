@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Srinivas</h1>
+
 - 🌱 I’m currently learning **Generative AI**
 
 - 💬 Ask me about **Tensorflow, PyTorch**
